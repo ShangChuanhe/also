@@ -53,6 +53,7 @@
 //#include "commands/test_appro.hpp"
 #include "commands/xagban.hpp"
 #include "commands/stochastic.hpp"
+#include "commands/calculate_ED.hpp"
 
 ALICE_MAIN( also )
 
